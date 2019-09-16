@@ -1,0 +1,7 @@
+.idea/
+.vs/
+@another/
+BooksController.cs
+CustomerController.cs
+HomeController.cs
+PersonController.cs
